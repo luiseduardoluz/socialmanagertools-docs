@@ -1,0 +1,11 @@
+{
+	"name": "social-manager-tools-igbot-docs",
+    "script": "markserv ./README.md",
+    "watch": true,
+    "max_restarts": 999,
+    "max_memory_restart": "1024M",
+    "ignore_watch": [".git/","node_modules","npm-debug.log"],
+    "watch_options": {
+        "followSymlinks": false
+    }
+}

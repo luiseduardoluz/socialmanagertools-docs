@@ -11,7 +11,7 @@
 3. Edit `/home/pi/config.js` (in next bash command) with your correct config path and run it for start docker. Bot start automatically.
 
 ```sh
-docker run --restart=always --name=socialmanagertools-fbbot -d -v /home/pi/config.js:/app/configs/config.js socialmanagertools/socialmanagertools-fbbot:armv7
+docker run --restart=always --name=socialmanagertools-fbbot -d -v /home/pi/config.js:/app/configs/config.js socialmanagertools/fbbot:armv7
 ```
 
 **AVAILABLE TAGS:** `armv7` (Raspberry PI 2 and Raspberry PI 3), `armv8` (Raspberry PI ARM v8)

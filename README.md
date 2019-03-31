@@ -30,7 +30,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:START -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="https://ptk.dev"><img src="https://avatars1.githubusercontent.com/u/442844?v=4" width="100px;" alt="Patryk Rzucidło"/><br /><sub><b>Patryk Rzucidło</b></sub></a><br /><a href="https://github.com/ptkdev/socialmanagertools-igbot/commits?author=ptkdev" title="Documentation">📖</a> <a href="#translation-ptkdev" title="Translation">🌍</a></td></tr></table>
+<table><tr><td align="center"><a href="https://ptk.dev"><img src="https://avatars1.githubusercontent.com/u/442844?v=4" width="100px;" alt="Patryk Rzucidło"/><br /><sub><b>Patryk Rzucidło</b></sub></a><br /><a href="https://github.com/ptkdev/socialmanagertools-docs/commits?author=ptkdev" title="Documentation">📖</a> <a href="#translation-ptkdev" title="Translation">🌍</a></td></tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 

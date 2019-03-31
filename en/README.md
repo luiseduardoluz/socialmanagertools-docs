@@ -42,7 +42,8 @@ Thank you to all our backers! 🙏 Become a backer on [patreon](http://patreon.p
 [![Twitch: prattquellolive](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-igbot/master/.github/assets/patreon/prattquello.png)](https://www.twitch.tv/prattquellolive) [![](https://opencollective.com/social-manager-tools/backers.svg?width=890)](https://opencollective.com/social-manager-tools#backers)
 
 ## 💫 License
-* Documentation and contributions have **CC BY-NC 4.0 License**
-* Images and logos have **CC BY-NC 4.0 License**
+* Documentation and Contributions have **CC BY 4.0 License**
+* Images and Logos have **CC BY-NC 4.0 License**
+* Code Snippets/Examples have **MIT License**
 
 ###### Copyleft (c) 2018-2019 [Patryk Rzucidło](https://ptk.dev) ([@PTKDev](https://twitter.com/ptkdev)) <[support@ptkdev.io](mailto:support@ptkdev.io)>

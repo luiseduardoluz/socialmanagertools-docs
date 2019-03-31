@@ -33,7 +33,7 @@ docker run --restart=always --name=socialmanagertools-igbot -d -v /path/to/confi
 3. Edit `/home/[USERNAME]/config.js` (in next bash command) with your correct config path and run it for start docker. Bot start automatically.
 
 ```sh
-docker run --restart=always --name=socialmanagertools-igbot -d -v /home/[USERNAME]/config.js:/app/configs/config.js social-manager-tools/socialmanagertools-igbot:amd64
+docker run --restart=always --name=socialmanagertools-igbot -d -v /home/[USERNAME]/config.js:/app/configs/config.js socialmanagertools/igbot:amd64
 ```
 
 **AVAILABLE TAGS:** `amd64` (64bit), `i386` (32bit)

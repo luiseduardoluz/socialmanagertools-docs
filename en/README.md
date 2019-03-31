@@ -21,11 +21,25 @@
   - 📘 [API: Facebook Bot](./fbbot/api/README.md)
   - 📙 [API: Telegram Wordpress &amp; Medium Bot](./tgbot/api/README.md)
 - 💻 [Developers Guidelines](./developers/guidesline/README.md)
-- 🎁 Donate: [paypal](http://paypal.ptkdev.io) / [patreon](http://patreon.ptkdev.io) / [opencollective](http://opencollective.ptkdev.io) / [ko-fi](http://coffee.ptkdev.io)
-- 🍻 Community: [discord](http://discord.ptkdev.io) / [slack](http://slack.ptkdev.io) / [medium](http://blog.ptkdev.io) / [twitter](https://twitter.com/socialmanagertools)
+- 🍻 Community:
+  - 🐦 [Telegram group](http://telegram.ptkdev.io)
+  - 🐔 [Discord](http://discord.ptkdev.io)
+  - 🐓 [Slack](http://slack.ptkdev.io)
+  - 🕊 [Medium](http://blog.ptkdev.io)
+  - 🐤 [Twitter](https://twitter.com/ptkdevio)
 
 ## 🎁 Support: Donate
 [![](https://img.shields.io/badge/donate-paypal-005EA6.svg)](http://paypal.ptkdev.io) [![](https://img.shields.io/badge/donate-patreon-F87668.svg)](http://patreon.ptkdev.io) [![](https://img.shields.io/badge/donate-opencollective-5DA4F9.svg)](http://opencollective.ptkdev.io) [![](https://img.shields.io/badge/buy%20me-coffee-4B788C.svg)](http://coffee.ptkdev.io)
+
+## 👑 Sponsors (max 10 available)
+Support this project by becoming a sponsor. 🙏 Become a sponsor on [patreon](http://patreon.ptkdev.io) or [opencollective](https://opencollective.com/social-manager-tools#sponsor). Your logo will show up here with a link to your website.
+
+[![](https://opencollective.com/social-manager-tools/sponsor/0/avatar.svg)](https://opencollective.com/social-manager-tools/sponsor/0/website) [![](https://opencollective.com/social-manager-tools/sponsor/1/avatar.svg)](https://opencollective.com/social-manager-tools/sponsor/1/website) [![](https://opencollective.com/social-manager-tools/sponsor/2/avatar.svg)](https://opencollective.com/social-manager-tools/sponsor/2/website) [![](https://opencollective.com/social-manager-tools/sponsor/3/avatar.svg)](https://opencollective.com/social-manager-tools/sponsor/3/website) [![](https://opencollective.com/social-manager-tools/sponsor/4/avatar.svg)](https://opencollective.com/social-manager-tools/sponsor/4/website) [![](https://opencollective.com/social-manager-tools/sponsor/5/avatar.svg)](https://opencollective.com/social-manager-tools/sponsor/5/website) [![](https://opencollective.com/social-manager-tools/sponsor/6/avatar.svg)](https://opencollective.com/social-manager-tools/sponsor/6/website) [![](https://opencollective.com/social-manager-tools/sponsor/7/avatar.svg)](https://opencollective.com/social-manager-tools/sponsor/7/website) [![](https://opencollective.com/social-manager-tools/sponsor/8/avatar.svg)](https://opencollective.com/social-manager-tools/sponsor/8/website) [![](https://opencollective.com/social-manager-tools/sponsor/9/avatar.svg)](https://opencollective.com/social-manager-tools/sponsor/9/website)
+
+## 🦄 Backers
+Thank you to all our backers! 🙏 Become a backer on [patreon](http://patreon.ptkdev.io) or [opencollective](https://opencollective.com/social-manager-tools#sponsor)
+
+[![Twitch: prattquellolive](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-igbot/master/.github/assets/patreon/prattquello.png)](https://www.twitch.tv/prattquellolive) [![](https://opencollective.com/social-manager-tools/backers.svg?width=890)](https://opencollective.com/social-manager-tools#backers)
 
 ## 💫 License
 * Documentation and contributions have **CC BY-NC 4.0 License**

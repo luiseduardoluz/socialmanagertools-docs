@@ -19,7 +19,7 @@ Run `sudo apt-get install build-essential xvfb libssl-dev curl wget git chromium
 - Edit `configs/config.js` and set `chrome_headless` to `enabled`, is mandatory.
 
 ## 5. Proxy
-1. Buy proxy server of your country from [highproxies](https://www.highproxies.com/instagram-proxies/) or from you favorite distributor.
+1. Buy proxy server of your country from [highproxies](https://www.highproxies.com/instagram-proxies/) or from you favorite distributor (NOTE: proxy are available >= v0.10 release).
 2. Edit `configs/config.js` and set server ip and port on `proxy` section.
 
 **IMPORTANT**: **is mandatory use vpn/proxy if you don't want risk of _soft ban_ or _ban_ with server use**.

@@ -1,4 +1,4 @@
-> 📌 [index](../../../README.md) / 💾 [installation](../../installation/README.md) / 📀 [multiaccount](README.md)
+> 📌 [index](../../../README.md) / 📷 igbot / 💾 [installation](../../installation/README.md) / 📀 [multiaccount](README.md)
 
 # 📀 How setup multi-account
 Config.js allow ONLY 1 mode but you can run multiple account or multiple modes with [cli version](../../installation/source/README.md) or [gui](../../../gui/installation/README.md).

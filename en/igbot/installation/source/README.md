@@ -1,12 +1,12 @@
-> 📌 [index](../../../README.md) / 💾 [installation](../README.md) / ⛏ [cli](README.md)
+> 📌 [index](../../../README.md) / 📷 igbot / 💾 [installation](../README.md) / ⛏ [cli](README.md)
 
 # ⛏ CLI Usage
-1. Download [latest bot version](https://github.com/social-manager-tools/socialmanagertools-igbot/archive/master.zip) and extract it.
+1. Download [stable](https://github.com/social-manager-tools/socialmanagertools-igbot/archive/master.zip), [beta](https://github.com/social-manager-tools/socialmanagertools-igbot/archive/beta.zip) or [nightly](https://github.com/social-manager-tools/socialmanagertools-igbot/archive/nightly.zip) and extract it.
 2. Download [Node.js](https://nodejs.org/it/) (LTS release) and install it.
-3. Run `npm install` in `socialmanagertools-igbot-master` folder.
-4. Get [config.js](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-igbot/master/config.js.tpl) remove  `.tpl ` suffix and insert file into `configs` folder, fill it properly.
+3. Run `npm install` in `socialmanagertools-igbot` folder.
+4. Remove `.tpl` suffix from `config.js.tpl` file in `configs` folder and fill it properly.
 5. Start the bot via `npm run start`
-6. If it works add a star 🌟 at this project.
+6. If it works add a star 🌟 at this project ❤️
 7. If you want to help me: **donate on [paypal](http://paypal.ptkdev.io)/[ko-fi](http://coffee.ptkdev.io)** or become a **[backer on patreon](http://patreon.ptkdev.io)**.
 
 ## 🎁 Support: Donate

@@ -1,4 +1,4 @@
-> 📌 [index](../../../README.md) / 💾 [installation](../README.md) / 🐳 [docker](README.md)
+> 📌 [index](../../../README.md) / 📷 igbot / 💾 [installation](../README.md) / 🐳 [docker](README.md)
 
 # 🐳 Setup - Docker on Raspbian 9
 ## 1. Install docker

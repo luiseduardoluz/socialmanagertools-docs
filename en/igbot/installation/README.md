@@ -1,4 +1,4 @@
-> 📌 [index](../../README.md) / 💾 [installation](README.md)
+> 📌 [index](../../README.md) / 📷 igbot / 💾 [installation](README.md)
 
 # 📎 Installation Index
 Instagram bot installation manual:
@@ -9,6 +9,7 @@ Instagram bot installation manual:
   - 🐳 [Docker](./docker/README.md)
 
 Configs:
+  - 🔌 [VPN/Proxy](../configs/vpn-proxy/README.md)
   - 💿 [Modes](../configs/modes/README.md)
   - 📀 [Multi-account](../configs/multiaccount/README.md)
 

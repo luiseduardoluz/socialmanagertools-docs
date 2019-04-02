@@ -1,4 +1,4 @@
-> 📌 [index](../../../README.md) / 💾 [installation](../../installation/README.md) / 💿 [modes](README.md)
+> 📌 [index](../../../README.md) / 📷 igbot / 💾 [installation](../../installation/README.md) / 💿 [modes](README.md)
 
 # 💿 Modes description (social algorithm)
 ## likemode_classic

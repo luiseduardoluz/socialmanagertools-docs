@@ -16,6 +16,7 @@
   - 🔧 [CLI: Facebook Bot](./fbbot/installation/README.md)
   - 🔧 [CLI: Telegram Wordpress &amp; Medium Bot](./tgbot/installation/README.md)
 - 📐 Configs:
+  - 🔌 [VPN/Proxy](./igbot/configs/vpn-proxy/README.md)
   - 💿 [Modes: Instagram Bot](./igbot/configs/modes/README.md) (Social Algorithms)
   - 📀 [Multi-account: Instagram Bot](./igbot/configs/multiaccount/README.md)
 - 📚 API Documentation (only for Developers):

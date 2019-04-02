@@ -1,4 +1,4 @@
-> 📌 [index](../../README.md) / 💾 [desktop installation](README.md)
+> 📌 [index](../../README.md) / 🖱 gui / 💾 [desktop installation](README.md)
 
 # 💾 Desktop Installation
 ## 💻 Windows 10

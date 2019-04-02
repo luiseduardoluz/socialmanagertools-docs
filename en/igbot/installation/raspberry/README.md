@@ -1,4 +1,4 @@
-> 📌 [index](../../../README.md) / 💾 [installation](../README.md) / 🦀 [raspberry pi](README.md)
+> 📌 [index](../../../README.md) / 📷 igbot / 💾 [installation](../README.md) / 🦀 [raspberry pi](README.md)
 
 # 🦀 Setup - Raspbian 9
 ## 1. Install chromium v69 or never

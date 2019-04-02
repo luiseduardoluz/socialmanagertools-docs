@@ -15,6 +15,9 @@
   - 🔧 [CLI: Twitter Bot](./twbot/installation/README.md)
   - 🔧 [CLI: Facebook Bot](./fbbot/installation/README.md)
   - 🔧 [CLI: Telegram Wordpress &amp; Medium Bot](./tgbot/installation/README.md)
+- 📐 Configs:
+  - 💿 [Modes: Instagram Bot](./igbot/configs/modes/README.md) (Social Algorithms)
+  - 📀 [Multi-account: Instagram Bot](./igbot/configs/multiaccount/README.md)
 - 📚 API Documentation (only for Developers):
   - 📗 [API: Instagram Bot](./igbot/api/README.md)
   - 📕 [API: Twitter Bot](./twbot/api/README.md)

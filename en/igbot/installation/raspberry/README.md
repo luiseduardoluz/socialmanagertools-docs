@@ -12,7 +12,7 @@ Run `sudo apt-get install chromium-browser`
 
 ## 4. Run
 1. Download [latest bot version](https://github.com/social-manager-tools/socialmanagertools-igbot/archive/master.zip) and extract it.
-2. Run `ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=1`
+2. Run `env PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=1`
 3. Run `npm install` in `socialmanagertools-igbot-master` folder.
 4. Get [config.js](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-igbot/master/config.js.tpl) remove  `.tpl ` suffix and insert file into `configs` folder, fill it properly.
 5. Edit `configs/config.js` and set `chrome_executable_path` to `/usr/bin/chromium-browser` in puppeteer section.
@@ -63,7 +63,7 @@ sudo apt-get install -f
 
 ## 5. Run
 1. Download [latest bot version](https://github.com/social-manager-tools/socialmanagertools-igbot/archive/master.zip) and extract it.
-2. Run `ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=1`
+2. Run `env PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=1`
 3. Run `npm install` in `socialmanagertools-igbot-master` folder.
 4. Get [config.js](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-igbot/master/config.js.tpl) remove  `.tpl ` suffix and insert file into `configs` folder, fill it properly.
 5. Edit `configs/config.js` and set `chrome_executable_path` to `/usr/bin/chromium-browser` in puppeteer section.

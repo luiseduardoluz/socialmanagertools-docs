@@ -12,12 +12,13 @@ Run `sudo apt-get install chromium-browser`
 
 ## 4. Run
 1. Download [latest bot version](https://github.com/social-manager-tools/socialmanagertools-igbot/archive/master.zip) and extract it.
-2. Run `npm install` in `socialmanagertools-igbot-master` folder.
-3. Get [config.js](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-igbot/master/config.js.tpl) remove  `.tpl ` suffix and insert file into `configs` folder, fill it properly.
-4. Edit `configs/config.js` and set `chrome_executable_path` to `/usr/bin/chromium-browser` in puppeteer section.
-5. Start the bot via `npm run start`
-6. If it works add a star 🌟 at this project.
-7. If you want to help me: **donate on [paypal](http://paypal.ptkdev.io)/[ko-fi](http://coffee.ptkdev.io)** or become a **[backer on patreon](http://patreon.ptkdev.io)**.
+2. Run `ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=1`
+3. Run `npm install` in `socialmanagertools-igbot-master` folder.
+4. Get [config.js](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-igbot/master/config.js.tpl) remove  `.tpl ` suffix and insert file into `configs` folder, fill it properly.
+5. Edit `configs/config.js` and set `chrome_executable_path` to `/usr/bin/chromium-browser` in puppeteer section.
+6. Start the bot via `npm run start`
+7. If it works add a star 🌟 at this project.
+8. If you want to help me: **donate on [paypal](http://paypal.ptkdev.io)/[ko-fi](http://coffee.ptkdev.io)** or become a **[backer on patreon](http://patreon.ptkdev.io)**.
 
 ## 5. You don't have monitor?
 - Edit `configs/config.js` and set `chrome_headless` to `enabled`, is mandatory.
@@ -62,12 +63,13 @@ sudo apt-get install -f
 
 ## 5. Run
 1. Download [latest bot version](https://github.com/social-manager-tools/socialmanagertools-igbot/archive/master.zip) and extract it.
-2. Run `npm install` in `socialmanagertools-igbot-master` folder.
-3. Get [config.js](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-igbot/master/config.js.tpl) remove  `.tpl ` suffix and insert file into `configs` folder, fill it properly.
-4. Edit `configs/config.js` and set `chrome_executable_path` to `/usr/bin/chromium-browser` in puppeteer section.
-5. Start the bot via `npm run start`
-6. If it works add a star 🌟 at this project.
-7. If you want to help me: **donate on [paypal](http://paypal.ptkdev.io)/[ko-fi](http://coffee.ptkdev.io)** or become a **[backer on patreon](http://patreon.ptkdev.io)**.
+2. Run `ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=1`
+3. Run `npm install` in `socialmanagertools-igbot-master` folder.
+4. Get [config.js](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-igbot/master/config.js.tpl) remove  `.tpl ` suffix and insert file into `configs` folder, fill it properly.
+5. Edit `configs/config.js` and set `chrome_executable_path` to `/usr/bin/chromium-browser` in puppeteer section.
+6. Start the bot via `npm run start`
+7. If it works add a star 🌟 at this project.
+8. If you want to help me: **donate on [paypal](http://paypal.ptkdev.io)/[ko-fi](http://coffee.ptkdev.io)** or become a **[backer on patreon](http://patreon.ptkdev.io)**.
 
 ## 6. You don't have monitor?
 - Edit `config.js` and set `chrome_headless` to `enabled`, is mandatory.

@@ -6,7 +6,7 @@
 2. `sudo usermod -aG docker pi`
 
 ## 2. Run
-1. Get [config.js](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-igbot/master/config.js.tpl) remove  `.tpl ` suffix and save file in your home directory, fill it properly.
+1. Get [config.js](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-igbot/master/configs/config.js.tpl) remove  `.tpl ` suffix and save file in your home directory, fill it properly.
 2. Edit `config.js` and set `chrome_headless` on `enabled` and set `chrome_executable_path` to `/usr/bin/chromium-browser`. **Without this fix docker don't work.**
 3. Edit `/home/pi/config.js` (in next bash command) with your correct config path and run it for start docker. Bot start automatically.
 
@@ -28,7 +28,7 @@ docker run --restart=always --name=socialmanagertools-igbot -d -v /home/pi/confi
 **IMPORTANT**: **is mandatory use vpn/proxy if you don't want risk of _soft ban_ or _ban_ with server use**.
 
 ## 3. Run
-1. Get [config.js](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-igbot/master/config.js.tpl) remove  `.tpl ` suffix and save file in your home directory, fill it properly.
+1. Get [config.js](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-igbot/master/configs/config.js.tpl) remove  `.tpl ` suffix and save file in your home directory, fill it properly.
 2. Edit `config.js` and set `chrome_headless` on `enabled` and set `chrome_executable_path` to `/usr/bin/chromium-browser`. **Without this fix docker don't work.**
 3. Edit `/home/[USERNAME]/config.js` (in next bash command) with your correct config path and run it for start docker. Bot start automatically.
 

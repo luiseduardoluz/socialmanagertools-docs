@@ -13,7 +13,7 @@ Run `sudo apt-get install build-essential xvfb libssl-dev curl wget git chromium
 ## 3. Configs
 1. Download [latest bot version](https://github.com/social-manager-tools/socialmanagertools-igbot/archive/master.zip) and extract it.
 2. Run `npm install` in `socialmanagertools-igbot-master` folder.
-3. Get [config.js](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-igbot/master/config.js.tpl) remove  `.tpl ` suffix and insert file into `configs` folder, fill it properly.
+3. Get [config.js](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-igbot/master/configs/config.js.tpl) remove  `.tpl ` suffix and insert file into `configs` folder, fill it properly.
 
 ## 4. You don't have monitor?
 - Edit `configs/config.js` and set `chrome_headless` to `enabled`, is mandatory.

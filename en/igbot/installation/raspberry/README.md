@@ -8,7 +8,7 @@ Run `sudo apt-get install chromium-browser`
 1. `curl -sL https://deb.nodesource.com/setup_10.x -o nodesource_setup.sh `
 2. `sudo bash nodesource_setup.sh`
 3. `rm nodesource_setup.sh`
-4. `sudo apt-get install nodejs`
+4. `sudo apt-get install nodejs npm`
 
 ## 4. Run
 1. Download [latest bot version](https://github.com/social-manager-tools/socialmanagertools-igbot/archive/master.zip) and extract it.
@@ -43,7 +43,7 @@ Run `sudo apt-get install chromium-browser`
 1. `curl -sL https://deb.nodesource.com/setup_10.x -o nodesource_setup.sh `
 2. `sudo bash nodesource_setup.sh`
 3. `rm nodesource_setup.sh`
-4. `sudo apt-get install nodejs`
+4. `sudo apt-get install nodejs npm`
 
 ## 3. Update chromium v60 to v69
 ```sh

@@ -7,7 +7,7 @@
 
 ## 2. Run
 1. Get [config.js](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-igbot/master/configs/config.js.tpl) remove  `.tpl ` suffix and save file in your home directory, fill it properly.
-2. Edit `config.js` and set `chrome_headless` on `enabled` (or true on `v0.9.X` version) and set `chrome_executable_path` to `/usr/bin/chromium-browser`. **Without this fix docker don't work.**
+2. Edit `config.js` and set `chrome_headless` on `enabled` (or to `true` in `v0.9.X` version) and set `chrome_executable_path` to `/usr/bin/chromium-browser`. **Without this fix docker don't work.**
 3. Edit `/home/pi/config.js` (in next bash command) with your correct config path and run it for start docker. Bot start automatically.
 
 ```sh
@@ -29,7 +29,7 @@ docker run --restart=always --name=socialmanagertools-igbot -d -v /home/pi/confi
 
 ## 3. Run
 1. Get [config.js](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-igbot/master/configs/config.js.tpl) remove  `.tpl ` suffix and save file in your home directory, fill it properly.
-2. Edit `config.js` and set `chrome_headless` on `enabled` and set `chrome_executable_path` to `/usr/bin/chromium-browser`. **Without this fix docker don't work.**
+2. Edit `config.js` and set `chrome_headless` on `enabled` (or to `true` in `v0.9.X` version) and set `chrome_executable_path` to `/usr/bin/chromium-browser`. **Without this fix docker don't work.**
 3. Edit `/home/[USERNAME]/config.js` (in next bash command) with your correct config path and run it for start docker. Bot start automatically.
 
 ```sh

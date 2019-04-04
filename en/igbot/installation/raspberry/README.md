@@ -10,6 +10,8 @@ Run `sudo apt-get install chromium-browser`
 3. `rm nodesource_setup.sh`
 4. `sudo apt-get install nodejs npm`
 
+**INFO**: some people have encountered problems with node `10.x`, try downgrade to `8.x` if not work.
+
 ## 4. Run
 1. Download [latest bot version](https://github.com/social-manager-tools/socialmanagertools-igbot/archive/master.zip) and extract it.
 2. Run `export PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=1` or `env PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=1`

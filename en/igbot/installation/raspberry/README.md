@@ -21,7 +21,7 @@ Run `sudo apt-get install chromium-browser`
 8. If you want to help me: **donate on [paypal](http://paypal.ptkdev.io)/[ko-fi](http://coffee.ptkdev.io)** or become a **[backer on patreon](http://patreon.ptkdev.io)**.
 
 ## 5. You don't have monitor?
-- Edit `configs/config.js` and set `chrome_headless` to `enabled`, is mandatory.
+- Edit `configs/config.js` and set `chrome_headless` to `enabled` (or to `true` in `v0.9.X` version), is mandatory.
 
 ## 6. Install correct puppeteer module
 If bot not work or chrome/chromium crash try install correct version of puppeteer library.
@@ -72,7 +72,7 @@ sudo apt-get install -f
 8. If you want to help me: **donate on [paypal](http://paypal.ptkdev.io)/[ko-fi](http://coffee.ptkdev.io)** or become a **[backer on patreon](http://patreon.ptkdev.io)**.
 
 ## 6. You don't have monitor?
-- Edit `config.js` and set `chrome_headless` to `enabled`, is mandatory.
+- Edit `config.js` and set `chrome_headless` to `enabled` (or to `true` in `v0.9.X` version), is mandatory.
 
 ## 7. Install correct puppeteer module
 If bot not work or chrome/chromium crash try install correct version of puppeteer library.

@@ -21,7 +21,11 @@ docker run --restart=always --name=socialmanagertools-igbot -d -v /home/pi/confi
 1. `curl -sSL https://get.docker.com | sh`
 2. `sudo usermod -aG docker [USERNAME]` (replace `[USERNAME]` with your debian user account)
 
-## 2. Proxy (If you use debian on server)
+## 2. Config
+1. Get [config.js](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-igbot/master/configs/config.js.tpl) remove  `.tpl ` suffix and save file in your home directory, fill it properly.
+2. Edit `config.js` and set `chrome_headless` on `enabled` (or to `true` in `v0.9.X` version) and set `chrome_executable_path` to `/usr/bin/chromium-browser`. **Without this fix docker don't work.**
+
+## 3. Proxy (If you use debian on server)
 **IMPORTANT**: **is mandatory use vpn/proxy if you don't want risk of _soft ban_ or _ban_ with server use**.
 
 Instagram, Twitter and Facebook detect after 2-48h server/hosting/vps from ovh, aws, cloud, digital ocean and other providers... What happen if detect you? On instagram if bot click on like, instagram remove like after refresh page = bot not work.
@@ -36,9 +40,7 @@ Instagram, Twitter and Facebook detect after 2-48h server/hosting/vps from ovh, 
 ##### 🔜 v0.10.X or newer
 - Set server ip and port on `proxy` section.
 
-## 3. Run
-1. Get [config.js](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-igbot/master/configs/config.js.tpl) remove  `.tpl ` suffix and save file in your home directory, fill it properly.
-2. Edit `config.js` and set `chrome_headless` on `enabled` (or to `true` in `v0.9.X` version) and set `chrome_executable_path` to `/usr/bin/chromium-browser`. **Without this fix docker don't work.**
+## 4. Run
 3. Edit `/home/[USERNAME]/config.js` (in next bash command) with your correct config path and run it for start docker. Bot start automatically.
 
 ```sh

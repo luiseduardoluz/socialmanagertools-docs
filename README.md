@@ -20,7 +20,7 @@ Support this project by becoming a sponsor. 🙏 Become a sponsor on [patreon](h
 ## 🦄 Backers
 Thank you to all our backers! 🙏 Become a backer on [patreon](http://patreon.ptkdev.io) or [opencollective](https://opencollective.com/social-manager-tools#sponsor)
 
-[![Twitch: prattquellolive](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-igbot/master/.github/assets/patreon/prattquello.png)](https://www.twitch.tv/prattquellolive) [![](https://opencollective.com/social-manager-tools/backers.svg?width=890)](https://opencollective.com/social-manager-tools#backers)
+[![Twitch: prattquellolive](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-igbot/master/.github/assets/patreon/prattquello.png)](https://www.twitch.tv/prattquellolive) [![JavaScript Room](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-docs/master/.github/assets/patreon/jsroom.png)]() [![](https://opencollective.com/social-manager-tools/backers.svg?width=890)](https://opencollective.com/social-manager-tools#backers)
 
 
 ## ❤️ Contributing

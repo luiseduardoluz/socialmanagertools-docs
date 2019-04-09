@@ -1,76 +1,11 @@
 > 📌 [index](../../../README.md) / 🐣 twbot / 💾 [installation](../../installation/README.md) / 💿 [modes](README.md)
 
 # 💿 Modes description (social algorithm)
-## likemode_classic
-> NOTE: This mode are available from >= v0.2 release.
 
-Select random hashtag from config list and like 1 random photo (of last 20)
-
-
-## likemode_realistic
-> NOTE: This mode are available from >= v0.2 release.
-
-Select random hashtag from config list, like fast 10-12 photo and sleep 15-20min
-
-
-## likemode_realistic_location
-> NOTE: This mode are available from >= v0.10 release.
-
-Select random gps-location from config list, like fast 10-12 photo and sleep 15-20min
-
-
-## likemode_realistic_timeline
-> NOTE: This mode are available from >= v0.10 release.
-
-Like fast 10-12 photo from your timeline and sleep 15-20min
-
-
-## likemode_superlike
-> NOTE: This mode are available from >= v0.2 release.
-
-Select random hashtag from config list and like 3 random photo of same user
-
-
-## likemode_superlike_location
-> NOTE: This mode are available from >= v0.10 release.
-
-Select random gps-location from config list and like 3 random photo of same user
-
-
-## likemode_competitor_users
-> NOTE: This mode are available from >= v0.3 release.
-
-Select account, select random followers, like 10-12 photo and sleep 15-20min
-
-
-## commentmode_classic
-> NOTE: This mode are available from >= v0.3 release.
-
-Leave a comment under the photo via hashtag
-
-
-## commentmode_location
-> NOTE: This mode are available from >= v0.10 release.
-
-Leave a comment under the photo via gps-location
-
-
-## fdfmode_classic
-> NOTE: This mode are available from >= v0.5 release.
-
-Follow 30 users, and defollow the first followed at 31 follow, follow 1 (in loop)
-
-
-## fdfmode_classic_location
-> NOTE: This mode are available from >= v0.10 release.
-
-Select random gps-location, follow 30 users, and defollow the first followed at 31 follow, follow 1 (in loop)
-
-
-## storiesviews_realistic
-> NOTE: This mode are available from >= v0.10 release.
-
-Select random hashtag from config list, go to 1 photo, go to user account, see stories. In loop
+Type | Mode Name | Available | Description
+--- | --- | --- | ---
+*like* | **likemode_classic** | v0.1 | Select random hashtag from config list, like fast 10-12 tweet and sleep 15-20min
+*retweet* | **rtmode_classic** | v0.1 | Select random hashtag from config list, retweet fast 10-12 tweet and sleep 15-20min
 
 
 ## 🎁 Support: Donate

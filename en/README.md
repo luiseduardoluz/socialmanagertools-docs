@@ -18,7 +18,11 @@
 - 📐 Configs:
   - 🔌 [VPN/Proxy](./igbot/configs/vpn-proxy/README.md)
   - 💿 [Modes: Instagram Bot](./igbot/configs/modes/README.md) (Social Algorithms)
+  - 💿 [Modes: Twitter Bot](./twbot/configs/modes/README.md) (Social Algorithms)
+  - 💿 [Modes: Facebook Bot](./fbbot/configs/modes/README.md) (Social Algorithms)
   - 📀 [Multi-account: Instagram Bot](./igbot/configs/multiaccount/README.md)
+  - 📀 [Multi-account: Twitter Bot](./twbot/configs/multiaccount/README.md)
+  - 📀 [Multi-account: Facebook Bot](./fbbot/configs/multiaccount/README.md)
 - 📚 API Documentation (only for Developers):
   - 📗 [API: Instagram Bot](./igbot/api/README.md)
   - 📕 [API: Twitter Bot](./twbot/api/README.md)
@@ -43,7 +47,7 @@ Support this project by becoming a sponsor. 🙏 Become a sponsor on [patreon](h
 ## 🦄 Backers
 Thank you to all our backers! 🙏 Become a backer on [patreon](http://patreon.ptkdev.io) or [opencollective](https://opencollective.com/social-manager-tools#sponsor)
 
-[![Twitch: prattquellolive](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-igbot/master/.github/assets/patreon/prattquello.png)](https://www.twitch.tv/prattquellolive) [![](https://opencollective.com/social-manager-tools/backers.svg?width=890)](https://opencollective.com/social-manager-tools#backers)
+[![Twitch: prattquellolive](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-docs/master/.github/assets/patreon/prattquello.png)](https://www.twitch.tv/prattquellolive) [![JavaScript Room](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-docs/master/.github/assets/patreon/jsroom.png)]() [![](https://opencollective.com/social-manager-tools/backers.svg?width=890)](https://opencollective.com/social-manager-tools#backers)
 
 
 ## ❤️ Contributing

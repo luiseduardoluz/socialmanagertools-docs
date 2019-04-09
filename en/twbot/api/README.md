@@ -1,4 +1,4 @@
-> 📌 [index](../../README.md) / 📚 [api](README.md)
+> 📌 [index](../../README.md) / 🐣 twbot / 📚 [api](README.md)
 
 # 🕹 Get started
 Install npm package and run [sample](../installation/npm/README.md) if you want start of use this api.

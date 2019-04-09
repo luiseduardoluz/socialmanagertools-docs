@@ -1,12 +1,13 @@
-> 📌 [index](../../../README.md) / 💾 [installation](../README.md) / ⛏ [npm](README.md)
+> 📌 [index](../../../README.md) / 👮 fbbot / 💾 [installation](../README.md) / 🔨 [npm](README.md)
 
-## ⛏ NPM Usage
-1. Run `npm install @social-manager-tools/fbbot`
-2. Get [config.js](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-fbbot/master/configs/config.js.tpl) file for step 3, fill it properly and remove `.tpl` suffix.
-3. On your code require library, config and run bot, example:
+## 🔨 NPM Usage
+1. Run `npm install @social-manager-tools/fbbot@latest --save` (Available: @latest, @beta and @nightly)
+2. Get `config.js` file from `/node_modules/@social-manager-tools/fbbot/configs/` folder.
+3. Remove `.tpl` suffix from `config.js.tpl` file in `configs` folder and fill it properly.
+4. On your code require library, config and run bot, example:
 ```javascript
 const config = require ("./config");
-const Bot = require("@socialmanagertools/fbbot");
+const Bot = require("@social-manager-tools/fbbot");
 let bot = new Bot(config);
 
 (async () => {
@@ -27,8 +28,8 @@ let bot = new Bot(config);
 	await bot.stop();
 })();
 ```
-4. If it works add a star 🌟 at this project.
-5. If you want to help me: **donate on [paypal](http://paypal.ptkdev.io)/[ko-fi](http://coffee.ptkdev.io)** or become a **[backer on patreon](http://patreon.ptkdev.io)**.
+5. If it works add a star 🌟 at this project ❤️
+6. If you want to help me: **donate on [paypal](http://paypal.ptkdev.io)/[ko-fi](http://coffee.ptkdev.io)** or become a **[backer on patreon](http://patreon.ptkdev.io)**.
 
 See [API Documentation](../../api/README.md) for more methods or if you want create your bot.
 

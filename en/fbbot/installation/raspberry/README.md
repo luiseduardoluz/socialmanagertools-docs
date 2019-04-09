@@ -1,4 +1,4 @@
-> 📌 [index](../../../README.md) / 💾 [installation](../README.md) / 🦀 [raspberry pi](README.md)
+> 📌 [index](../../../README.md) / 👮 fbbot / 💾 [installation](../README.md) / 🦀 [raspberry pi](README.md)
 
 # 🦀 Setup - Raspbian 9
 ## 1. Install chromium v69 or never
@@ -8,19 +8,22 @@ Run `sudo apt-get install chromium-browser`
 1. `curl -sL https://deb.nodesource.com/setup_10.x -o nodesource_setup.sh `
 2. `sudo bash nodesource_setup.sh`
 3. `rm nodesource_setup.sh`
-4. `sudo apt-get install nodejs`
+4. `sudo apt-get install nodejs npm`
+
+**INFO**: some people have encountered problems with node `10.x`, try downgrade to `8.x` if not work.
 
 ## 4. Run
 1. Download [latest bot version](https://github.com/social-manager-tools/socialmanagertools-fbbot/archive/master.zip) and extract it.
-2. Run `npm install` in `socialmanagertools-fbbot-master` folder.
-3. Get [config.js](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-fbbot/master/config.js.tpl) remove  `.tpl ` suffix and insert file into `configs` folder, fill it properly.
-4. Edit `configs/config.js` and set `chrome_executable_path` to `/usr/bin/chromium-browser` in puppeteer section.
-5. Start the bot via `npm run start`
-6. If it works add a star 🌟 at this project.
-7. If you want to help me: **donate on [paypal](http://paypal.ptkdev.io)/[ko-fi](http://coffee.ptkdev.io)** or become a **[backer on patreon](http://patreon.ptkdev.io)**.
+2. Run `export PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=1` or `env PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=1`
+3. Run `npm install` in `socialmanagertools-fbbot-master` folder.
+4. Get [config.js](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-fbbot/master/configs/config.js.tpl) remove  `.tpl ` suffix and insert file into `configs` folder, fill it properly.
+5. Edit `configs/config.js` and set `chrome_executable_path` to `/usr/bin/chromium-browser` in puppeteer section.
+6. Start the bot via `npm run start`
+7. If it works add a star 🌟 at this project.
+8. If you want to help me: **donate on [paypal](http://paypal.ptkdev.io)/[ko-fi](http://coffee.ptkdev.io)** or become a **[backer on patreon](http://patreon.ptkdev.io)**.
 
 ## 5. You don't have monitor?
-- Edit `configs/config.js` and set `chrome_headless` to `enabled`, is mandatory.
+- Edit `configs/config.js` and set `chrome_headless` to `enabled` (or to `true` in `v0.9.X` version), is mandatory.
 
 ## 6. Install correct puppeteer module
 If bot not work or chrome/chromium crash try install correct version of puppeteer library.
@@ -42,7 +45,7 @@ Run `sudo apt-get install chromium-browser`
 1. `curl -sL https://deb.nodesource.com/setup_10.x -o nodesource_setup.sh `
 2. `sudo bash nodesource_setup.sh`
 3. `rm nodesource_setup.sh`
-4. `sudo apt-get install nodejs`
+4. `sudo apt-get install nodejs npm`
 
 ## 3. Update chromium v60 to v69
 ```sh
@@ -62,15 +65,16 @@ sudo apt-get install -f
 
 ## 5. Run
 1. Download [latest bot version](https://github.com/social-manager-tools/socialmanagertools-fbbot/archive/master.zip) and extract it.
-2. Run `npm install` in `socialmanagertools-fbbot-master` folder.
-3. Get [config.js](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-fbbot/master/config.js.tpl) remove  `.tpl ` suffix and insert file into `configs` folder, fill it properly.
-4. Edit `configs/config.js` and set `chrome_executable_path` to `/usr/bin/chromium-browser` in puppeteer section.
-5. Start the bot via `npm run start`
-6. If it works add a star 🌟 at this project.
-7. If you want to help me: **donate on [paypal](http://paypal.ptkdev.io)/[ko-fi](http://coffee.ptkdev.io)** or become a **[backer on patreon](http://patreon.ptkdev.io)**.
+2. Run `export PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=1` or `env PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=1`
+3. Run `npm install` in `socialmanagertools-fbbot-master` folder.
+4. Get [config.js](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-fbbot/master/configs/config.js.tpl) remove  `.tpl ` suffix and insert file into `configs` folder, fill it properly.
+5. Edit `configs/config.js` and set `chrome_executable_path` to `/usr/bin/chromium-browser` in puppeteer section.
+6. Start the bot via `npm run start`
+7. If it works add a star 🌟 at this project.
+8. If you want to help me: **donate on [paypal](http://paypal.ptkdev.io)/[ko-fi](http://coffee.ptkdev.io)** or become a **[backer on patreon](http://patreon.ptkdev.io)**.
 
 ## 6. You don't have monitor?
-- Edit `config.js` and set `chrome_headless` to `enabled`, is mandatory.
+- Edit `config.js` and set `chrome_headless` to `enabled` (or to `true` in `v0.9.X` version), is mandatory.
 
 ## 7. Install correct puppeteer module
 If bot not work or chrome/chromium crash try install correct version of puppeteer library.

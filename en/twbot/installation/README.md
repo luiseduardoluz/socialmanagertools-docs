@@ -1,4 +1,4 @@
-> 📌 [index](../../README.md) / 💾 [installation](README.md)
+> 📌 [index](../../README.md) / 🐣 twbot / 💾 [installation](README.md)
 
 # 📎 Installation Index
 Twitter bot installation manual:
@@ -7,6 +7,11 @@ Twitter bot installation manual:
   - 🦀 [Raspberry PI](./raspberry/README.md) (Raspbian 9)
   - 🐧 [Debian Server](./linux/README.md) (Linux Server)
   - 🐳 [Docker](./docker/README.md)
+
+Configs:
+  - 🔌 [VPN/Proxy](../configs/vpn-proxy/README.md)
+  - 💿 [Modes](../configs/modes/README.md)
+  - 📀 [Multi-account](../configs/multiaccount/README.md)
 
 ## 🎁 Support: Donate
 [![](https://img.shields.io/badge/donate-paypal-005EA6.svg)](http://paypal.ptkdev.io) [![](https://img.shields.io/badge/donate-patreon-F87668.svg)](http://patreon.ptkdev.io) [![](https://img.shields.io/badge/donate-opencollective-5DA4F9.svg)](http://opencollective.ptkdev.io) [![](https://img.shields.io/badge/buy%20me-coffee-4B788C.svg)](http://coffee.ptkdev.io)

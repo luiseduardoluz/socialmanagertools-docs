@@ -1,4 +1,4 @@
-> 📌 [index](../../README.md) / 🌎 [translation guidelines](README.md)
+> 📌 [index](../../../README.md) / 🌎 [translation guidelines](README.md)
 
 # 🌎 How help?
 

@@ -9,6 +9,9 @@
 > This is official English documentation. Available languages: [🇬🇧](../en/README.md)
 
 ## 📎 Documentation Index
+- 🌎 How can I help with the translation? See [Translator Guidelines](./docs/translation/guidesline/README.md).
+- 💻 How can I help with development? See [Developers Guidelines](./developers/guidesline/README.md)
+
 - 💾 Installation:
   - 🛠 [GUI: Social Manager Tools](./gui/installation/README.md) (Windows, Mac, Linux)
   - 🔧 [CLI: Instagram Bot](./igbot/installation/README.md)
@@ -28,7 +31,6 @@
   - 📕 [API: Twitter Bot](./twbot/api/README.md)
   - 📘 [API: Facebook Bot](./fbbot/api/README.md)
   - 📙 [API: Telegram Wordpress &amp; Medium Bot](./tgbot/api/README.md)
-- 💻 [Developers Guidelines](./developers/guidesline/README.md)
 - 🍻 Community:
   - 🐦 [Telegram group](http://telegram.ptkdev.io)
   - 🐔 [Discord](http://discord.ptkdev.io)

@@ -8,10 +8,11 @@
 # 🤖 Social Manager Tools: Documentation
 > This is official English documentation. Available languages: [🇬🇧](../en/README.md)
 
-## 📎 Documentation Index
+## 🦄 How help Index
 - 🌎 How can I help with the translation? See [Translator Guidelines](./docs/translation/guidesline/README.md).
 - 💻 How can I help with development? See [Developers Guidelines](./developers/guidesline/README.md)
 
+## 📎 Documentation Index
 - 💾 Installation:
   - 🛠 [GUI: Social Manager Tools](./gui/installation/README.md) (Windows, Mac, Linux)
   - 🔧 [CLI: Instagram Bot](./igbot/installation/README.md)

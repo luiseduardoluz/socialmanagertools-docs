@@ -8,7 +8,7 @@ If you want to create a translation for a new language (example: `fr`, `de`, `pl
 
 1. Send request to become docs translation maintainer [here](https://github.com/social-manager-tools/socialmanagertools-docs/issues/new/choose).
 2. [Fork](https://github.com/social-manager-tools/socialmanagertools-docs/fork) this repo.
-3. Add new translation or typos.
+3. Add new translation (duplicate `en` folder)
 4. Send [pull request](https://github.com/social-manager-tools/socialmanagertools-docs/pulls).
 
 ### 🌏 Correct translation errors

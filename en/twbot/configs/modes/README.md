@@ -4,8 +4,8 @@
 
 Type | Mode Name | Available | Description
 --- | --- | --- | ---
-*like* | **likemode_classic** | v0.1 | Select random hashtag from config list, like fast 10-12 tweet and sleep 15-20min
-*retweet* | **rtmode_classic** | v0.1 | Select random hashtag from config list, retweet fast 10-12 tweet and sleep 15-20min
+*like* | **likemode_classic** | v0.1 | Selects random hashtag from config list, likes fast 10-12 tweet and sleeps for 15-20min
+*retweet* | **rtmode_classic** | v0.1 | Selects random hashtag from config list, retweets fast 10-12 tweets and sleeps for 15-20min
 
 
 ## 🎁 Support: Donate

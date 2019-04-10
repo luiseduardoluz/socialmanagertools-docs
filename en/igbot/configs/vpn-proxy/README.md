@@ -3,7 +3,7 @@
 ## 🔌 Setup Proxy
 **IMPORTANT**: **is mandatory use vpn/proxy if you don't want risk of _soft ban_ or _ban_ with server use**.
 
-Instagram, Twitter and Facebook detect after 2-48h server/hosting/vps from ovh, aws, cloud, digital ocean and other providers... What happen if detect you? On instagram if bot click on like, instagram remove like after refresh page = bot not work.
+Instagram, Twitter and Facebook detects after 2-48h server/hosting/vps from ovh, aws, cloud, digital ocean and other providers... What happens if it detect you? On instagram, if the bot clicks on like, instagram removes likes after refresh page = bot will not work.
 
 1. Buy proxy server of your country from [highproxies](https://www.highproxies.com/instagram-proxies/) or from you favorite distributor.
 2. Edit `configs/config.js` and:

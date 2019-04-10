@@ -1,7 +1,7 @@
 > 📌 [index](../../../README.md) / 🐣 twbot / 📚 [api](../README.md) / 📒 [api::databases](README.md)
 
 # 📎 Twitter API - Databases Index
-**Coming soon...** See [source code](https://github.com/social-manager-tools/socialmanagertools-twbot/blob/nightly/modules/api/databases.js) for get params and methods can you use.
+**Coming soon...** See [source code](https://github.com/social-manager-tools/socialmanagertools-twbot/blob/nightly/modules/api/databases.js) to get params and methods that you can use.
 
 ## 🎁 Support: Donate
 [![](https://img.shields.io/badge/donate-paypal-005EA6.svg)](http://paypal.ptkdev.io) [![](https://img.shields.io/badge/donate-patreon-F87668.svg)](http://patreon.ptkdev.io) [![](https://img.shields.io/badge/donate-opencollective-5DA4F9.svg)](http://opencollective.ptkdev.io) [![](https://img.shields.io/badge/buy%20me-coffee-4B788C.svg)](http://coffee.ptkdev.io)

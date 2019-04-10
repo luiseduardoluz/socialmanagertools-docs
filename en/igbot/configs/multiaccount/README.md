@@ -36,7 +36,7 @@ node bot.js --config="./configs/user2_likemode_realistic.js"
 node bot.js --config="./configs/user2_likemode_classic.js"
 ```
 
-User1 run 3 different modes. User2 run two same like modes: remember not exceeded 1000/like days in combo of modes or other instagram daily limits. Bot don't display warnings of istances in combo mode.
+User1 run 3 different modes. User2 run two same like modes: remember not exceeded 1000like/day in combo of modes or other instagram daily limits. Bot won't display warnings of istances in combo mode.
 
 ## Multi-account for Docker:
 
@@ -47,7 +47,7 @@ User1 run 3 different modes. User2 run two same like modes: remember not exceede
 - `docker run --restart=always --name=socialmanagertools-igbot4 -d -v /home/pi/configs/user2_likemode_realistic.js:/app/configs/config.js socialmanagertools/igbot:amd64`
 - `docker run --restart=always --name=socialmanagertools-igbot5 -d -v /home/pi/configs/user2_likemode_classic.js:/app/configs/config.js socialmanagertools/igbot:amd64`
 
-User1 run 3 different modes. User2 run two same like modes: remember not exceeded 1000/like days in combo of modes or other instagram daily limits. Bot don't display warnings of docker containers in combo mode.
+User1 run 3 different modes. User2 run two same like modes: remember not exceeded 1000like/day in combo of modes or other instagram daily limits. Bot won't display warnings of docker containers in combo mode.
 
 ## 🎁 Support: Donate
 [![](https://img.shields.io/badge/donate-paypal-005EA6.svg)](http://paypal.ptkdev.io) [![](https://img.shields.io/badge/donate-patreon-F87668.svg)](http://patreon.ptkdev.io) [![](https://img.shields.io/badge/donate-opencollective-5DA4F9.svg)](http://opencollective.ptkdev.io) [![](https://img.shields.io/badge/buy%20me-coffee-4B788C.svg)](http://coffee.ptkdev.io)

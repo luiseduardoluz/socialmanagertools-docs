@@ -28,7 +28,7 @@ docker run --restart=always --name=socialmanagertools-igbot -d -v /home/pi/confi
 ## 3. Proxy (If you use debian on server)
 **IMPORTANT**: **is mandatory use vpn/proxy if you don't want risk of _soft ban_ or _ban_ with server use**.
 
-Instagram, Twitter and Facebook detect after 2-48h server/hosting/vps from ovh, aws, cloud, digital ocean and other providers... What happen if detect you? On instagram if bot click on like, instagram remove like after refresh page = bot not work.
+Instagram, Twitter and Facebook detects after 2-48h server/hosting/vps from ovh, aws, cloud, digital ocean and other providers... What happens if it detect you? On instagram, if the bot clicks on like, instagram removes likes after refresh page = bot will not work.
 
 1. Buy proxy server of your country from [highproxies](https://www.highproxies.com/instagram-proxies/) or from you favorite distributor.
 2. Edit `configs/config.js` and:
@@ -41,7 +41,7 @@ Instagram, Twitter and Facebook detect after 2-48h server/hosting/vps from ovh, 
 - Set server ip and port on `proxy` section.
 
 ## 4. Run
-3. Edit `/home/[USERNAME]/config.js` (in next bash command) with your correct config path and run it for start docker. Bot start automatically.
+3. Edit `/home/[USERNAME]/config.js` (in next bash command) with your correct config path and run it to start docker. Bot starts automatically.
 
 ```sh
 docker run --restart=always --name=socialmanagertools-igbot -d -v /home/[USERNAME]/config.js:/app/configs/config.js socialmanagertools/igbot:amd64

@@ -6,9 +6,9 @@
 2. `sudo usermod -aG docker pi`
 
 ## 2. Run
-1. Get [config.js](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-fbbot/master/configs/config.js.tpl) remove  `.tpl ` suffix and save file in your home directory, fill it properly.
+1. Get [config.js](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-fbbot/master/configs/config.js.tpl) remove  `.tpl ` suffix and save the file in your home directory, fill it properly.
 2. Edit `config.js` and set `chrome_headless` on `enabled` (or to `true` in `v0.9.X` version) and set `chrome_executable_path` to `/usr/bin/chromium-browser`. **Without this fix docker don't work.**
-3. Edit `/home/pi/config.js` (in next bash command) with your correct config path and run it for start docker. Bot start automatically.
+3. Edit `/home/pi/config.js` (in next bash command) with your correct config path and run it to start docker. Bot starts automatically.
 
 ```sh
 docker run --restart=always --name=socialmanagertools-fbbot -d -v /home/pi/config.js:/app/configs/config.js socialmanagertools/fbbot:armv7
@@ -28,9 +28,9 @@ docker run --restart=always --name=socialmanagertools-fbbot -d -v /home/pi/confi
 ## 3. Proxy (If you use debian on server)
 **IMPORTANT**: **is mandatory use vpn/proxy if you don't want risk of _soft ban_ or _ban_ with server use**.
 
-Facebook, Twitter and Facebook detect after 2-48h server/hosting/vps from ovh, aws, cloud, digital ocean and other providers... What happen if detect you? On facebook if bot click on like, facebook remove like after refresh page = bot not work.
+Facebook, Twitter and Facebook detect after 2-48h server/hosting/vps from ovh, aws, cloud, digital ocean and other providers... What happen if it detects you? On facebook, if bot clicks on like, facebook will remove likes after refresh page = bot will not work.
 
-1. Buy proxy server of your country from [highproxies](https://www.highproxies.com/facebook-proxies/) or from you favorite distributor.
+1. Buy proxy server of your country from [highproxies](https://www.highproxies.com/facebook-proxies/) or from you favourite distributor.
 2. Edit `configs/config.js` and:
 
 ##### 🔙 v0.9.X or previously
@@ -41,7 +41,7 @@ Facebook, Twitter and Facebook detect after 2-48h server/hosting/vps from ovh, a
 - Set server ip and port on `proxy` section.
 
 ## 4. Run
-3. Edit `/home/[USERNAME]/config.js` (in next bash command) with your correct config path and run it for start docker. Bot start automatically.
+3. Edit `/home/[USERNAME]/config.js` (in next bash command) with your correct config path and run it to start docker. Bot starts automatically.
 
 ```sh
 docker run --restart=always --name=socialmanagertools-fbbot -d -v /home/[USERNAME]/config.js:/app/configs/config.js socialmanagertools/fbbot:amd64

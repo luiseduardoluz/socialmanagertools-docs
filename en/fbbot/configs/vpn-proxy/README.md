@@ -3,9 +3,9 @@
 ## 🔌 Setup Proxy
 **IMPORTANT**: **is mandatory use vpn/proxy if you don't want risk of _soft ban_ or _ban_ with server use**.
 
-Facebook, Twitter and Facebook detect after 2-48h server/hosting/vps from ovh, aws, cloud, digital ocean and other providers... What happen if detect you? On facebook if bot click on like, facebook remove like after refresh page = bot not work.
+Facebook, Twitter and Facebook detect after 2-48h server/hosting/vps from ovh, aws, cloud, digital ocean and other providers... What happen if it detects you? On facebook, if bot clicks on like, facebook will remove likes after refresh page = bot will not work.
 
-1. Buy proxy server of your country from [highproxies](https://www.highproxies.com/facebook-proxies/) or from you favorite distributor.
+1. Buy proxy server of your country from [highproxies](https://www.highproxies.com/facebook-proxies/) or from you favourite distributor.
 2. Edit `configs/config.js` and:
 
 ##### 🔙 v0.9.X or previously

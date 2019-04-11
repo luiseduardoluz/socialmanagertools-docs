@@ -1,7 +1,7 @@
 {
 	"name": "@social-manager-tools/docs",
 	"description": "Social Manager Tools: Documentation",
-	"version": "0.10.20190409",
+	"version": "0.10.20190411",
 	"main": "README.md",
 	"author": "Patryk Rzucidło [@ptkdev] <support@ptkdev.io> (https://ptk.dev)",
 	"license": "CC BY 4.0",

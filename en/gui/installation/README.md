@@ -4,14 +4,14 @@
 ## 💻 Windows 10
 1. Download [exe](https://github.com/social-manager-tools/social-manager-tools/releases) file.
 2. Open with double click
-3. If get smart screen error, click on `more info...`
+3. If you get smart screen error, click on `more info...`
 4. Click on `run anyway` button
-5. App started
+5. App has started
 
 ## 🍎 Mac OS (Apple)
 1. Download [dmg](https://github.com/social-manager-tools/social-manager-tools/releases) file.
 2. Open with double click
-3. If get error, go to: Apple menu > System Preferences, click Security & Privacy, then click General and auth Social Manager Tools
+3. If you get error, go to: Apple menu > System Preferences, click Security & Privacy, then click General and auth Social Manager Tools
 5. Retry open and Drag&Drop to Application folder
 6. Run app from Launchpad
 

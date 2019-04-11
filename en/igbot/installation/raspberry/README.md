@@ -26,7 +26,7 @@ Run `sudo apt-get install chromium-browser`
 - Edit `configs/config.js` and set `chrome_headless` to `enabled` (or to `true` in `v0.9.X` version), is mandatory.
 
 ## 6. Install correct puppeteer module
-If bot not work or chrome/chromium crash try install correct version of puppeteer library.
+If bot wont work or chrome/chromium crashes try to install a correct version of puppeteer library.
 - If you use `chrome/chromium v68` run `npm install puppeteer@1.4.0`
 - If you use `chrome/chromium v69` run `npm install puppeteer@1.6.2`
 - If you use `chrome/chromium v70` run `npm install puppeteer@1.7.0`

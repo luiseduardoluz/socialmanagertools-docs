@@ -8,9 +8,9 @@
 # 🤖 Social Manager Tools: Documentation
 > This is official English documentation. Available languages: [🇬🇧](../en/README.md)
 
-## 🦄 How help Index
-- 🌎 How can I help with the translation? See [Translator Guidelines](./docs/translation/guidesline/README.md).
-- 💻 How can I help with development? See [Developers Guidelines](./developers/guidesline/README.md)
+## 🦄 How can I help?
+- 🌎 See [Translators Guidelines](./docs/translation/guidesline/README.md).
+- 💻 See [Developers Guidelines](./developers/guidesline/README.md)
 
 ## 📎 Documentation Index
 - 💾 Installation:

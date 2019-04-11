@@ -28,7 +28,7 @@ docker run --restart=always --name=socialmanagertools-twbot -d -v /home/pi/confi
 ## 3. Proxy (If you use debian on server)
 **IMPORTANT**: **is mandatory use vpn/proxy if you don't want risk of _soft ban_ or _ban_ with server use**.
 
-Twitter, Twitter and Facebook detect after 2-48h server/hosting/vps from ovh, aws, cloud, digital ocean and other providers... What happen if detect you? On twitter if bot click on like, twitter remove like after refresh page = bot not work.
+Twitter, Twitter and Facebook detects after 2-48h server/hosting/vps from ovh, aws, cloud, digital ocean and other providers... What happen if it detects you? On twitter, if the bot clicks on like, twitter removes likes after refresh page = bot will not work.
 
 1. Buy proxy server of your country from [highproxies](https://www.highproxies.com/twitter-proxies/) or from you favorite distributor.
 2. Edit `configs/config.js` and:

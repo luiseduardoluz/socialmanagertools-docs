@@ -1,7 +1,7 @@
 > 📌 [index](../../../README.md) / 🐣 twbot / 💾 [installation](../../installation/README.md) / 📀 [multiaccount](README.md)
 
 # 📀 How setup multi-account
-Config.js allow ONLY 1 mode but you can run multiple account or multiple modes with [cli version](../../installation/source/README.md) or [gui](../../../gui/installation/README.md).
+Config.js allows ONLY 1 mode but you can run multiple account or multiple modes with [cli version](../../installation/source/README.md) or [gui](../../../gui/installation/README.md).
 
 
 ## Multi-account for GUI - Desktop app:
@@ -11,7 +11,7 @@ Config.js allow ONLY 1 mode but you can run multiple account or multiple modes w
 2. Wait 30seconds...
 3. Set another username and password, select social algorithm, set available settings and press start again.
 
-Now you run 3 account with different mode: bot display message warning if you try run two times same account and same mode (it's smart). You can run same account with different mode but **WARNING**: remember not exceeded 1000/like or retweet days in combo of modes or twitter daily limits.
+Now you run 3 accounts with different mode: bot will display warning message if you try run two times same account and same mode (it's smart). You can run same account with different mode but **WARNING**: remember not exceeded 1000 like or retweet per day in combo of modes or twitter daily limits.
 
 #### How check logs of single account with gui if run more accounts:
 1. Set username (only)

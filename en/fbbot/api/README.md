@@ -1,7 +1,7 @@
 > 📌 [index](../../README.md) / 👮 fbbot / 📚 [api](README.md)
 
 # 🕹 Get started
-Install npm package and run [sample](../installation/npm/README.md) if you want start of use this api.
+Install npm package and run [sample](../installation/npm/README.md) if you want to start using this api.
 
 ### Example (with flow login)
 ```javascript

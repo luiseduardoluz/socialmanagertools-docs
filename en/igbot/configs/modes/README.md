@@ -4,18 +4,18 @@
 
 Type | Mode Name | Available | Description
 --- | --- | --- | ---
-*Like* | **likemode_classic** | v0.2 | Select random hashtag from config list and like 1 random photo (of last 20)
-*Like* | **likemode_realistic** | v0.2 | Select random hashtag from config list, like fast 10-12 photo and sleep 15-20min
-*Like* | **likemode_realistic_location** | v0.10 | Select random gps-location from config list, like fast 10-12 photo and sleep 15-20min
-*Like* | **likemode_realistic_timeline** | v0.10 | Like fast 10-12 photo from your timeline and sleep 15-20min
-*Like* | **likemode_superlike** | v0.2 | Select random hashtag from config list and like 3 random photo of same use
-*Like* | **likemode_superlike_location** | v0.10 | Select random gps-location from config list and like 3 random photo of same user
-*Like* | **likemode_competitor_users** | v0.3 | Select account, select random followers, like 10-12 photo and sleep 15-20min
-*Comment* | **commentmode_classic** | v0.3 | Leave a comment under the photo via hashtag
-*Comment* | **commentmode_location** | v0.10 | Leave a comment under the photo via gps-loca
-*Follow/Defollow* | **fdfmode_classic** | v0.5 | Follow 30 users, and defollow the first followed at 31 follow, follow 1 (in loop)
-*Follow/Defollow* | **fdfmode_classic_location** | v0.10 | Select random gps-location, follow 30 users, and defollow the first followed at 31 follow, follow 1 (in loop)
-*Stories* | **storiesviews_realistic** | v0.10 | Select random hashtag from config list, go to 1 photo, go to user account, see stories. In loop
+*Like* | **likemode_classic** | v0.2 | Selects random hashtag from config list and likes 1 random photo (of last 20)
+*Like* | **likemode_realistic** | v0.2 | Selects random hashtag from config list, likes fast 10-12 photo and sleeps for 15-20min
+*Like* | **likemode_realistic_location** | v0.10 | Selects random gps-location from config list, likes fast 10-12 photo and sleeps for 15-20min
+*Like* | **likemode_realistic_timeline** | v0.10 | Likes fast 10-12 photo from your timeline and sleeps for 15-20min
+*Like* | **likemode_superlike** | v0.2 | Selects random hashtag from config list and likes 3 random photo of same use
+*Like* | **likemode_superlike_location** | v0.10 | Selects random gps-location from config list and likes 3 random photo of same user
+*Like* | **likemode_competitor_users** | v0.3 | Selects account, selects random followers, likes 10-12 photo and sleeps for 15-20min
+*Comment* | **commentmode_classic** | v0.3 | Leaves a comment under the photo via hashtag
+*Comment* | **commentmode_location** | v0.10 | Leaves a comment under the photo via gps-loca
+*Follow/Defollow* | **fdfmode_classic** | v0.5 | Follows 30 users, and defollows the first followed at 31 follow, follow 1 (in loop)
+*Follow/Defollow* | **fdfmode_classic_location** | v0.10 | Selects random gps-location, follows 30 users, and defollows the first followed at 31 follow, follow 1 (in loop)
+*Stories* | **storiesviews_realistic** | v0.10 | Selects random hashtag from config list, goes to 1 photo, goes to user account, sees stories. In loop
 
 
 ## 🎁 Support: Donate

@@ -11,9 +11,9 @@ Config.js allow ONLY 1 mode but you can run multiple account or multiple modes w
 2. Wait 30seconds...
 3. Set another username and password, select social algorithm, set available settings and press start again.
 
-Now you run 3 account with different mode: bot display message warning if you try run two times same account and same mode (it's smart). You can run same account with different mode but **WARNING**: remember not exceeded 1000/like days in combo of modes or facebook daily limits.
+Now you run 3 account with different modes: bot will display message warning if you try to run two times the same account and same mode (it's smart). You can run the same account with different modes but **WARNING**: remember not to exceeded 1000like/day in combo of modes or facebook daily limits.
 
-#### How check logs of single account with gui if run more accounts:
+#### How to check logs of single account with gui if you run more accounts:
 1. Set username (only)
 2. Press LOGS button.
 
@@ -30,7 +30,7 @@ node bot.js --config="./configs/user1_likemode_myfeed.js"
 node bot.js --config="./configs/user2_likemode_myfeed.js"
 ```
 
-User1 run one modes. User2 run same like modes: remember not exceeded 1000/like days in combo of modes or other facebook daily limits. Bot don't display warnings of istances in combo mode.
+User1 runs one mode. User2 runs same like mode: remember not exceeded 1000like/day in combo of modes or other facebook daily limits. Bot won't display warnings of istances in combo mode.
 
 ## Multi-account for Docker:
 
@@ -38,7 +38,7 @@ User1 run one modes. User2 run same like modes: remember not exceeded 1000/like 
 - `docker run --restart=always --name=socialmanagertools-fbbot1 -d -v /home/pi/configs/user1_likemode_myfeed.js:/app/configs/config.js socialmanagertools/fbbot:amd64`
 - `docker run --restart=always --name=socialmanagertools-fbbot2 -d -v /home/pi/configs/user2_likemode_myfeed.js:/app/configs/config.js socialmanagertools/fbbot:amd64`
 
-User1 run one modes. User2 run same like modes: remember not exceeded 1000/like days in combo of modes or other facebook daily limits. Bot don't display warnings of istances in combo mode.
+User1 runs one mode. User2 runs same like mode: remember not exceeded 1000like/day in combo of modes or other facebook daily limits. Bot won't display warnings of istances in combo mode.
 
 ## 🎁 Support: Donate
 [![](https://img.shields.io/badge/donate-paypal-005EA6.svg)](http://paypal.ptkdev.io) [![](https://img.shields.io/badge/donate-patreon-F87668.svg)](http://patreon.ptkdev.io) [![](https://img.shields.io/badge/donate-opencollective-5DA4F9.svg)](http://opencollective.ptkdev.io) [![](https://img.shields.io/badge/buy%20me-coffee-4B788C.svg)](http://coffee.ptkdev.io)
